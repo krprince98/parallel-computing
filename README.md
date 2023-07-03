@@ -3,7 +3,7 @@ Parallel computing refers to the concept of performing multiple computational ta
 We will discuss this topic with a focus on CPU.
 
 ## Find CPU specifications on a Linux machine
-Run `lscpu` in a terminal window. We would produce a result like this:
+Run `lscpu` in a terminal window. It would produce a result like this:
 
 ![image](https://github.com/krprince98/parallel-computing/assets/96859685/916474cc-69de-4141-9686-87da74a29e00)
 
